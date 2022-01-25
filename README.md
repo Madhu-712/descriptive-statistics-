@@ -1,5 +1,6 @@
 Descriptive Statistics with Python Project
-Descriptive Statistics is the subject matter of this project. Descriptive statistics gives us the basic summary measures about the dataset. The summary measures include measures of central tendency (mean, median and mode) and measures of variability (variance, standard deviation, minimum/maximum values, IQR (Interquartile Range), skewness and kurtosis). I have used the fortune 500 dataset from the data world website for this project.
+Descriptive Statistics is the subject matter of this project. 
+Descriptive statistics gives us the basic summary measures about the dataset. The summary measures include measures of central tendency (mean, median and mode) and measures of variability (variance, standard deviation, minimum/maximum values, IQR (Interquartile Range), skewness and kurtosis). I have used the fortune 500 dataset from the data world website for this project.
 
 Table of Contents
 Introduction to descriptive statistics
@@ -37,6 +38,8 @@ Computation of measures of shape of distribution
 Skewness
 Kurtosis
 Results and conclusion
+
+
 1. Introduction to descriptive statistics
 Descriptive statistics are numbers that are used to describe and summarize the data. They are used to describe the basic features of the data under consideration. They provide simple summary measures which give an overview of the dataset. Summary measures that are commonly used to describe a data set are measures of central tendency and measures of variability or dispersion.
 
